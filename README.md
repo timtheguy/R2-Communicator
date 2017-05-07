@@ -9,6 +9,12 @@ It is built on the [Star Wars API](https://swapi.co/) and was created for the Io
 ## How does it work?
 The *R2 Communicator* app is built on the [Star Wars API](https://swapi.co/) and allows the user to interact with the R2 unit by prompting the user for information about galactic ships, planets, species, and people. The R2 unit then chimes back with some information in any of the categories, and proudly displays an overview on the screen.
 
+## Screenshots
+Landing Page | Fact View | Fact View
+-|-|-
+![The landing page](http://i.imgur.com/xJGjowB.png) | ![A planet fact](http://i.imgur.com/TygbnsJ.png) | ![A vehicle fact](http://i.imgur.com/XtHdtK7.png)
+
+
 ### Credits
 This application uses media and content is the property of it's original creator. The images and audio are from the following sources:
 - R2-D2 image, https://en.wikipedia.org/wiki/R2-D2
